@@ -154,7 +154,7 @@ h3 {
         transform: rotate(0deg);
     }
 
-    #title {
+    #title #ctaH3 {
         text-align: center;
     }
 }
